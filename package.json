@@ -1,0 +1,19 @@
+{
+  "name": "puppy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dan Kreiger <dan@dankreiger.com> (http://www.dankreiger.com/)",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.12.3",
+    "sass": "1.21.0",
+    "typescript": "3.5.2"
+  },
+  "dependencies": {
+    "three": "0.105.2"
+  }
+}

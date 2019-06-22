@@ -1,0 +1,12 @@
+@import './partials/base';
+
+body {
+  background: $bg-color;
+  font-family: 'Lato', sans-serif;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0;
+}
